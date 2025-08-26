@@ -28,3 +28,6 @@ Continue your learning journey with these handpicked resources from around the w
 - **[OpenAI MLE Bench](https://github.com/openai/mle-bench)**: A machine learning engineering benchmark from OpenAI to test and compare your systems.
 - **[Mem0](https://mem0.ai/)**: A SaaS platform offering agentic memory management solutions.
 - **[A2A Protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)**: Google's Agent-to-Agent communication protocol for building interoperable and modular agent frameworks.
+
+- **[Neo](https://heyneo.so/)**: World First autonomous ML Engineer. If you are ML Engineer and would like to collaborate to help us make neo better reach me out at vikas@navyaai.com.
+ 
